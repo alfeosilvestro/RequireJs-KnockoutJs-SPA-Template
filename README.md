@@ -1,1 +1,1 @@
-# RequireJs-KnockoutJs-SPA-Template
+# RequireJs+KnockoutJs = SPA Template
